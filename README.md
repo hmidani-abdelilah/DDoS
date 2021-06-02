@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/github/license/haithamaouati/DDoS?style=flat-square)
 ![GitHub version](https://img.shields.io/badge/version-1.0-yellow?style=flat-square)
 
-DDoS Attack tool.
+A simple DoS attack tool.
 
 Requirements
 ----
