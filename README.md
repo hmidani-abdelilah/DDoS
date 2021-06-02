@@ -27,8 +27,18 @@ Usage
     
 Help
 ----
-    python3 DDoS.py -h
+    python3 DDoS.py -h, --help
     
+###### Options
+`-h, --help`
+show this help message and exit.
+
+`-i, -ip`
+Input the ip address.
+
+`-p, --port`
+Input the port.
+
 Platform
 ----
 * Windows
