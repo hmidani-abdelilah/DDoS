@@ -29,7 +29,7 @@ Usage
     
 Help
 ----
-    python3 DDoS.py -h, --help
+    python3 DDoS.py -h
     
 ###### Options
 `-h, --help`
