@@ -6,6 +6,8 @@
 
 A simple DDoS attack tool.
 
+![Screenshot](https://raw.githubusercontent.com/haithamaouati/DDoS/main/screenshot.PNG?raw=true "Optional title")
+
 Requirements
 ----
 * [Python 3.9.4](https://www.python.org)
@@ -31,13 +33,13 @@ Help
     
 ###### Options
 `-h, --help`
-show this help message and exit.
+show this help message and exit
 
 `-i, -ip`
-Input the ip address.
+IP address (e.g. 127.0.0.1)
 
 `-p, --port`
-Input the port.
+Port number (e.g. 80)
 
 Platform
 ----
